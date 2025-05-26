@@ -58,8 +58,8 @@ JWT Authentication • Google OAuth • REST APIs • Responsive Design • Encr
 ## 📫 Connect With Me
 
 - 💼 [LinkedIn](https://linkedin.com/in/grpansare)
-- 🌐 Portfolio: [ganeshpansare.dev](https://ganeshpansare.dev) *(if available)*
-- 📧 Email: grpansare2002@example.com
+- 🌐 Portfolio:https://personal-dashboard-grp.netlify.app/
+- 📧 Email: grpansare2002@gmail.com
 
 ---
 
