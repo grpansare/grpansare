@@ -29,20 +29,25 @@ JWT Authentication • Google OAuth • REST APIs • Responsive Design • Encr
 
 ### 🔐 [File Encryption Tool](https://github.com/grpansare/file-encryption-tool)
 > A desktop/web utility to encrypt and decrypt files securely using Java.
-- Java-based encryption logic
-- Auto-generate secure keys
-- GUI/CLI interface
-- Team collaboration tracked with JIRA
+- Java-based encryption logic  
+- Auto-generate secure keys  
+- GUI/CLI interface  
+- Team collaboration tracked with JIRA  
 
 ### 🚗 [Smart Car Parking System](https://github.com/grpansare/smart-car-parking)
 > A full-stack application to book parking slots in real-time using map integration.
-- User roles: Parking User, Parking Owner, Admin
-- JWT Authentication + Google OAuth
-- Razorpay Integration for Payments
-- OpenStreetMap for location tracking
-- React + Spring Boot + MySQL
+- User roles: Parking User, Parking Owner, Admin  
+- JWT Authentication + Google OAuth  
+- Razorpay Integration for Payments  
+- OpenStreetMap for location tracking  
+- React + Spring Boot + MySQL  
 
-
+### 🧠 [Big Five Personality Test](https://github.com/grpansare/big-five-personality-test)
+> A psychology-based quiz app that analyzes user personality using the Big Five (OCEAN) model.
+- React + Express + MongoDB  
+- JWT authentication with Google OAuth option  
+- Hosted on Render (backend) & Netlify (frontend)  
+- Interactive UI with real-time result scoring  
 
 ---
 
@@ -58,7 +63,7 @@ JWT Authentication • Google OAuth • REST APIs • Responsive Design • Encr
 ## 📫 Connect With Me
 
 - 💼 [LinkedIn](https://linkedin.com/in/grpansare)
-- 🌐 Portfolio:https://personal-dashboard-grp.netlify.app/
+- 🌐 Portfolio: https://personal-dashboard-grp.netlify.app/
 - 📧 Email: grpansare2002@gmail.com
 
 ---
