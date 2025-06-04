@@ -9,7 +9,7 @@
 ## 🚀 Skills & Tech Stack
 
 **Languages:**  
-Java • JavaScript • TypeScript • SQL
+Java • JavaScript • TypeScript • SQL • Python
 
 **Frameworks & Libraries:**  
 Spring Boot • React.js • Node.js • Express • React Hook Form
