@@ -27,13 +27,6 @@ JWT Authentication • Google OAuth • REST APIs • Responsive Design • Encr
 
 ## 🛠️ Projects
 
-### 🔐 [File Encryption Tool](https://github.com/grpansare/file-encryption-tool)
-> A desktop/web utility to encrypt and decrypt files securely using Java.
-- Java-based encryption logic  
-- Auto-generate secure keys  
-- GUI/CLI interface  
-- Team collaboration tracked with JIRA  
-
 ### 🚗 [Smart Car Parking System](https://github.com/grpansare/smart-car-parking)
 > A full-stack application to book parking slots in real-time using map integration.
 - User roles: Parking User, Parking Owner, Admin  
