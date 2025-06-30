@@ -27,7 +27,7 @@ JWT Authentication • Google OAuth • REST APIs • Responsive Design • Encr
 
 ## 🛠️ Projects
 
-### 🚗 [Smart Car Parking System](https://github.com/grpansare/smart-parking)
+### 🚗 [Smart Car Parking System](https://github.com/grpansare/smart_car_parking)
 > A full-stack application to book parking slots in real-time using map integration.
 - User roles: Parking User, Parking Owner, Admin  
 - JWT Authentication + Google OAuth  
